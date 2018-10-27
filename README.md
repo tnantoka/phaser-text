@@ -16,5 +16,5 @@ The minimum project for writing Phaser 3 with modern ES.
   
 ## Acknowledgements
 
-The sample game and assets are from hello world in the official tutorial.
+The sample game and assets are from hello world in the official tutorial.  
 https://phaser.io/tutorials/getting-started-phaser3/part5
